@@ -8,6 +8,15 @@ Aprendiendo Git todavia mas;
 
 sigo en eso
 
+esta linea es parte de una nueva rama
+
+y esta tambien 
+
+y esta 
+
+y esta otra
+
+
 otra vez
 
 y otra vez
@@ -21,3 +30,4 @@ jugando un poco
 esta linea la agrego desde la rama master
 
 experimento un poco con pull
+
