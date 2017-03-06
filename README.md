@@ -8,6 +8,8 @@ Aprendiendo Git todavia mas;
 
 sigo en eso
 
+esta linea es parte de una nueva rama
+
 otra vez
 
 y otra vez
@@ -17,3 +19,6 @@ y otra y otra
 jugando un poco
 
 :D
+
+
+
